@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommonCommunication/CommonCommunication.iml" filepath="$PROJECT_DIR$/CommonCommunication/CommonCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Distributor/Distributor.iml" filepath="$PROJECT_DIR$/Distributor/Distributor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Feeder/Feeder.iml" filepath="$PROJECT_DIR$/Feeder/Feeder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LegoSorter.iml" filepath="$PROJECT_DIR$/LegoSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loader/Loader.iml" filepath="$PROJECT_DIR$/Loader/Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorter/Sorter.iml" filepath="$PROJECT_DIR$/Sorter/Sorter.iml" />
+    </modules>
+  </component>
+</project>
+
